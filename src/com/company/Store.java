@@ -1,6 +1,8 @@
 package com.company;
 
 public class Store {
+        // declare instance fields here
+        String productType;
         // new method: constructor!
         public Store() {
             System.out.println("I am inside the constructor method.");
