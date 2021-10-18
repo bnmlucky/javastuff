@@ -7,5 +7,8 @@ public class Operations {
 
         int expression2 = (3 + (2 * 2 - 5)) + 6 - 5;
         System.out.println(expression2);
+
+        int expression3 = 5 * 4 % 3 - 2 + 1;
+        System.out.println(expression3);
     }
 }
