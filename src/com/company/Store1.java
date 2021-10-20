@@ -17,6 +17,7 @@ public class Store1 {
 
     // main method
     public static void main(String[] args) {
-
+        Store1 lemonadeStand = new Store1("Lemonade");
+        lemonadeStand.advertise();
     }
 }
